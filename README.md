@@ -1,2 +1,2 @@
 # loveyou
-demo : https://akiraphat18.github.io
+demo : https://akiraphat18.github.io/lovebaby/
